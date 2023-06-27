@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe2abc7d.css",
-    "main.js": "/static/js/main.4c467f78.js",
+    "main.css": "/static/css/main.ae73bf62.css",
+    "main.js": "/static/js/main.b451377a.js",
     "static/js/787.8fc83967.chunk.js": "/static/js/787.8fc83967.chunk.js",
+    "static/media/logo.PNG": "/static/media/logo.6cacf3605a5061244174.PNG",
+    "static/media/fedora.PNG": "/static/media/fedora.0681f4799a7e23589eb7.PNG",
+    "static/media/cigar.PNG": "/static/media/cigar.f651eeb04e7713f519b9.PNG",
     "index.html": "/index.html",
-    "main.fe2abc7d.css.map": "/static/css/main.fe2abc7d.css.map",
-    "main.4c467f78.js.map": "/static/js/main.4c467f78.js.map",
+    "main.ae73bf62.css.map": "/static/css/main.ae73bf62.css.map",
+    "main.b451377a.js.map": "/static/js/main.b451377a.js.map",
     "787.8fc83967.chunk.js.map": "/static/js/787.8fc83967.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe2abc7d.css",
-    "static/js/main.4c467f78.js"
+    "static/css/main.ae73bf62.css",
+    "static/js/main.b451377a.js"
   ]
 }
